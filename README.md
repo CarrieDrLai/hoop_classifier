@@ -23,3 +23,16 @@ get_annotation.py
 
     1.（后续使用）annotation.xml存放坐标；data.jpg大图
     2. 小图：data.npy存小图数据；label.npy存label、文件夹pos、get存小图
+
+
+
+read_annotation.py
+  
+  功能：
+  
+    得到data & label
+    
+  输出：
+    
+    data: (帧数, 图片尺寸x, 图片尺寸y)
+    label: 0阴性, 1阳性  
