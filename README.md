@@ -6,9 +6,8 @@ get_annotation.py
   
   var:
   
-   hoop_pos：篮筐坐标
-  
-   dataset：小图
+    hoop_pos：篮筐坐标
+    dataset：小图
   
   
   class:
