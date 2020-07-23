@@ -5,8 +5,12 @@ get_annotation.py
   功能：得到数据集
   
   var:
-    hoop_pos：篮筐坐标
-    dataset：小图
+  
+   hoop_pos：篮筐坐标
+  
+   dataset：小图
+  
+  
   class:
     GetHoopPos:得到hoop_pos
     GetDataset：得到dataset
