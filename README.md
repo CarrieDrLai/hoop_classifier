@@ -1,6 +1,6 @@
 # hoop_classifier
 
-get_annotation.py
+get_dataset.py
    
   功能：
   
