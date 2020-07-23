@@ -30,9 +30,24 @@ read_annotation.py
   
   功能：
   
-    得到data & label
+    得到data & label，需要HoG处理
     
   输出：
     
     data: (帧数, 图片尺寸x, 图片尺寸y)
     label: 0阴性, 1阳性  
+    
+extract_feature.py
+
+   功能：
+   
+     综合read_annotation.py 和 HoG.py
+     
+classifier.py
+
+
+main.py
+
+
+
+    
