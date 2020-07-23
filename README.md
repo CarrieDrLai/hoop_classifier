@@ -2,7 +2,9 @@
 
 get_annotation.py
    
-  功能：得到数据集
+  功能：
+  
+    得到数据集
   
   var:
   
@@ -18,6 +20,6 @@ get_annotation.py
     create_annotation：生成xml
   
   输出：
-   
-   1.（后续使用）annotation.xml存放坐标；data.jpg大图
-   2. 小图：data.npy存小图数据；label.npy存label、文件夹pos、get存小图
+
+    1.（后续使用）annotation.xml存放坐标；data.jpg大图
+    2. 小图：data.npy存小图数据；label.npy存label、文件夹pos、get存小图
