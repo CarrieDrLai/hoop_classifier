@@ -26,7 +26,7 @@ get_annotation.py
 
 
 
-read_annotation.py
+load_dataset.py
   
   功能：
   
@@ -34,14 +34,14 @@ read_annotation.py
     
   输出：
     
-    data: (帧数, 图片尺寸x, 图片尺寸y)
+    data: list类型，data[0]:阴性样本；data[1]阳性样本
     label: 0阴性, 1阳性  
     
 extract_feature.py
 
    功能：
    
-     综合read_annotation.py 和 HoG.py
+     load_dataset.py 和 HoG.py
      
 classifier.py
 
