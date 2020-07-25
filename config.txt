@@ -1,0 +1,12 @@
+fn_video = basketball-video-01.avi
+fn_data = data.jpg
+fn_annotation = annotation.xml
+dir_pos = .\\pos\\
+dir_neg = .\\neg\\
+dir_save_feature = .\\Feature\\
+crop_size = 96,96
+colume = 100
+cell_size = 8
+bin_size = 9
+thresh = 0.5
+task_type = locate
