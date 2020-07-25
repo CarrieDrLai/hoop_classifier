@@ -44,10 +44,11 @@ extract_feature.py
      load_dataset.py 和 HoG.py
      
 
+predict.py
 
 main.py
 
-predict.py
+
 
 
     
