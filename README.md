@@ -41,13 +41,16 @@ extract_feature.py
 
    功能：
    
-     load_dataset.py 和 HoG.py
+     HoG提取特征
+     批量处理图片，得到数据集的HoG特征
      
 
 predict.py
 
-main.py
+    分类器
+    
 
+main.py
 
 
 
